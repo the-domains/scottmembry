@@ -1,7 +1,7 @@
-name: scottmembry
+name: Scott Membry
 favicon: null
-layout_spectrum: 0.7632626686245203
-typography_spectrum: 0.2569579058326781
+layout_spectrum: 0.24791
+typography_spectrum: 0.49849
 title: Scott Membry
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3276676337700337
+    - '#092049'
+    - '#7990a3'
+    - '#ecf2ee'
+    - '#c6ced8'
+    - '#2d384f'
+  brandStrength: 0.375
   lightness: 0.5350568045396358
   saturation: 0.049751512706279755
   rhythmicContrast: 0.11494997655972838
