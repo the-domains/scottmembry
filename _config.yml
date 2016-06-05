@@ -1,29 +1,41 @@
-name: Scott Membry
-favicon: null
-layout_spectrum: 0.24791
-typography_spectrum: 0.49849
 title: Scott Membry
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2712137
+  brandStrength: 0.375
+  lightness: 0.5350568
+  brandColors:
+    - '#012D88'
+    - '#01BBB0'
+    - '#AC003A'
+    - '#FFE958'
+    - '#FF868D'
+  rhythmicContrast: 0.11495
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Scott Membry
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#092049'
-    - '#7990a3'
-    - '#ecf2ee'
-    - '#c6ced8'
-    - '#2d384f'
-  brandStrength: 0.375
-  lightness: 0.5350568045396358
-  saturation: 0.049751512706279755
-  rhythmicContrast: 0.11494997655972838
-purpose: []
+typography_spectrum: 0.49849
+layout_spectrum: 0.24791
